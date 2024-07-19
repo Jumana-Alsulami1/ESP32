@@ -26,5 +26,3 @@ When the ESP32 retrieves right the yellow LED will light up.
 
 https://wokwi.com/projects/403740363019917313
 
-
-https://wokwi.com/projects/403740363019917313

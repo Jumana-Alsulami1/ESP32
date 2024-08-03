@@ -26,3 +26,8 @@ When the ESP32 retrieves right the yellow LED will light up.
 
 https://wokwi.com/projects/403740363019917313
 
+The system will respond to five buttons, each triggering a specific LED to turn on: Stop, Forward, Backward, Left, and Right. 
+
+https://github.com/user-attachments/assets/f03ac4a2-65fd-47b3-bbbf-407d01e6e89c
+
+
